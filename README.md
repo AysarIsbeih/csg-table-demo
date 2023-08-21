@@ -17,8 +17,8 @@ are linked together to manipulate all the operations needed for the data.
 * The filtrationModel and paginationModel are passed by reference, which allows the library to manage the inputs in a dynamic way.
 * Csg table provides all the functionalities to manipulate the paginationObservable and getAllDataObs.
 
-## Run
-Run the application by using the npm start command.
+## Development server
+Run `ng serve ` for a dev server. Navigate to  `http://localhost:4200/ `. The application will automatically reload if you change any of the source files.
 
 
 
